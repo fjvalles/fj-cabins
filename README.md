@@ -17,8 +17,6 @@ https://cabanascochrane.cl/
 git clone git@github.com:fjvalles/fj-cabins.git
 ```
 
-> _Hint: See a note for non-Git users [here](https://gohugo.io/getting-started/quick-start/#step-3-add-a-theme)._
-
 ### 3. Inicia el servidor
 ```
 hugo server
@@ -28,7 +26,7 @@ hugo server
 
 Esta página se creó usando la plantilla [Hugo Story](https://themes.gohugo.io/hugo-story/) de [caressofsteel](https://github.com/caressofsteel).
 
-## License
+## Licencia
 
 <a rel="license" href="http://creativecommons.org/licenses/by/3.0/" class="license-button"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/88x31.png"></a>
 
