@@ -2,7 +2,7 @@
 
 ## Cabañas para arriendo en [Cochrane, Chile](https://goo.gl/maps/8nPz5AgZfGE1uPPN9)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7c3a62e5-e371-4226-82c6-35070219484d/deploy-status)](https://app.netlify.com/sites/jovial-kirch-3de7d6/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7c3a62e5-e371-4226-82c6-35070219484d/deploy-status)](https://app.netlify.com/sites/cabanasfj/deploys)
 
 ## Página web
 https://cabanascochrane.cl/
