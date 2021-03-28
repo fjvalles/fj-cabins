@@ -2,7 +2,7 @@
 ## Basic Configuration
 ## -----------------------------------------------
 
-title = "Hugo Story"
+title = "Cabañas Francisco Javier | Cochrane"
 theme = "hugo-story"
 
 
@@ -24,9 +24,7 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
   favicon = true
 
 [Params.social]
-  github = "https://github.com/caressofsteel/"
-  twitter = "https://twitter.com/caressofsteel_"
-  email = "caressofsteel@protonmail.com"
+  facebook = "https://facebook.com"
+  email = "gauchita.velasquez@gmail.com"
+  phone = "+56940398910"
   instagram = "https://instagram.com"
-  linkedin = "https://linkedin.com"
-  telegram = "https://telegram.org"
