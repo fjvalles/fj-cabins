@@ -30,6 +30,6 @@ items:
     
   # feature item loop
   - name : "Lavandería"
-    content : "Cambio de sábanas y toallas según tiempo de estadía. Opción de lavado de ropa con costo extra."
+    content : "Cambio de sábanas y toallas según tiempo de estadía. *Opción de lavado de ropa con costo extra."
     style : "style2 major fa-tshirt"
     

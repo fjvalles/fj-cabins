@@ -3,7 +3,7 @@ style: "style1 orient-right content-align-left image-position-center onscroll-im
 id: "first"
 title : "Quiénes somos"
 content: |
-  Somos <strong>María Erita y Francisco Javier</strong>, una pareja patagona nacida y criada en Cochrane. En el año XXXX construimos esta cabaña con la ayuda de uno de nuestros hijos con la idea de ofrecer un servicio de calidad del cual nuestros huéspedes quedaran satisfechos. Así nació <strong>Cabañas Francisco Javier</strong> y desde entonces hemos buscado mejorarla ¡con el feedback que nos entregan ustedes!
+  Somos <strong>María Erita y Francisco Javier</strong>, una pareja patagona nacida y criada en Cochrane. En el año 2019 comenzamos a construir esta cabaña con la ayuda de nuestros hijos con la idea de ofrecer un servicio de calidad del cual nuestros huéspedes quedaran satisfechos. Así nació <strong>Cabañas Francisco Javier</strong> y desde entonces hemos buscado mejorarla ¡con el feedback que nos entregan ustedes!
 button: 
   label: "Déjanos un mensaje"
   link: "mailto:gauchita.velasquez@gmail.com"
