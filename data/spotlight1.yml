@@ -7,4 +7,6 @@ content: |
 button: 
   label: "Ir al mapa"
   link: "https://goo.gl/maps/35nzMGenwz6KZfBb6"
-image: "images/mapa.jpeg"
+image: 
+  src: "images/mapa.jpeg"
+  alt: "Mapa con ubicación"

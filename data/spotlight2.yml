@@ -6,4 +6,6 @@ content: |
 button: 
   label: "Ver servicios"
   link: "#cabin-services"
-image: "images/collage_interior.jpeg"
+image: 
+  src: "images/collage_interior.jpeg"
+  alt: "Interior cabaña"

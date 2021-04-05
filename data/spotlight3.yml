@@ -7,4 +7,6 @@ content: |
 button: 
   label: "Déjanos un mensaje"
   link: "mailto:gauchita.velasquez@gmail.com"
-image: "images/pareja.jpeg"
+image: 
+  src: "images/pareja.jpeg"
+  alt: "María Erita y Francisco Javier"
