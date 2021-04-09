@@ -2,7 +2,7 @@
 style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
 title : "La cabaña"
 content: |
-  Cuenta con una habitación con cama matrimonial, una con 2 camas de 1.5 plazas y un baño con tina. Ropa de cama apropiada para la zona (¡para el frío!), refrigerador amplio y ventanales que permiten iluminar bastate la cabaña.
+  Cuenta con una habitación con cama matrimonial, una con 2 camas de 1.5 plazas y un baño con tina. Ropa de cama apropiada para la zona (¡para el frío!), refrigerador amplio y ventanales que permiten iluminar bastante la cabaña.
 button: 
   label: "Ver servicios"
   link: "#cabin-services"

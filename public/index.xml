@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cabañas Francisco Javier</title>
+    <title>Cabañas Francisco Javier | Cochrane</title>
     <link>/</link>
-    <description>Cabaña para hospedarse en Cochrane en ubicación céntrica</description>
-    <generator></generator><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content on Cabañas Francisco Javier | Cochrane</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
